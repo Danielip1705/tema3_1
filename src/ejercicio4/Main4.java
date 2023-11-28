@@ -19,7 +19,7 @@ public class Main4 {
 		comp1=Sobrecarga4.parseToBoolean(cadena);
 		System.out.println("Resultado con int: " +comp);
 		System.out.println("Resultado con String: "+comp1);
-		
+		sc.close();
 		
 	}
 
